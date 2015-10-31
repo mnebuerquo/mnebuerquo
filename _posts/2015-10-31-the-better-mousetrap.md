@@ -2,6 +2,7 @@
 published: false
 ---
 
+
 ## There are Mice living in my basement
 
 My girlfriend doesn't want me to kill them or hurt them in any way. So my project became the live capture and release of these mice.
@@ -28,5 +29,22 @@ One limitation of this trap is that you have to have the tube on the edge of a c
 
 I haven't tried this one myself, but it has the advantage of not depending on a fall so you can catch mice on the floor. This one looks cool. One advantage of the clear plastic bottle is that it's easy to see when you've captured a mouse.
 
-I wouldn't be surprised if a mouse could escape from this one within a few hours by chewing through the plastic bottle. I've seen mice chew through all kinds of containers to get the food in my pantry. I typically set the traps before I go to bed.
+I wouldn't be surprised if a mouse could escape from this one within a few hours by chewing through the plastic bottle. I've seen mice chew through all kinds of containers to get the food in my pantry. I typically set the traps before I go to bed. If the mice can chew through the plastic bottle fast enough, then they can escape before I wake up and check the trap.
+
+### Off the shelf solution
+
+As my homemade traps were not as effective as I'd like, I ordered a trap online. This one is a pretty clever mechanism using a see-saw like metal flap. The mouse crawls over the metal flap to get in, but after the mouse is inside, the flap swings the other way and the mouse can't climb over it to get out.
+
+[Here's a link to the place where I ordered it.](https://www.youtube.com/watch?v=QDgAuVK1Br0) Shipping turned out to cost more than the trap itself. Maybe I could have found it for less, but I didn't want to spend a lot of time shopping around for a better deal.
+
+This trap can be set on the floor, and it's small enough I don't have to transfer the mouse to another container when transporting  them to release outdoors. Additionally, this trap may be able to capture multiple mice in one session.
+
+I got it in the mail yesterday, and caught a mouse with it last night. I used a handful of dog food as bait. 
+
+## Release into the wild
+
+I release the mice in a nearby park. They get a few handfuls of dog food or whatever as a parting gift, and they're on their own in the wild.
+
+I know the outside world is a dangerous place for a house mouse, but they at least have a shot at making a life out there instead of just being killed by the trap.
+
 
