@@ -25,9 +25,9 @@ One limitation of this trap is that you have to have the tube on the edge of a c
 
 ### Plastic Bottle
 
-[Here's a demonstration of a trap using a plastic bottle.](https://www.youtube.com/watch?v=QDgAuVK1Br0)
-
 I haven't tried this one myself, but it has the advantage of not depending on a fall so you can catch mice on the floor. This one looks cool. One advantage of the clear plastic bottle is that it's easy to see when you've captured a mouse.
+
+[Here's a demonstration of a trap using a plastic bottle.](https://www.youtube.com/watch?v=QDgAuVK1Br0)
 
 I wouldn't be surprised if a mouse could escape from this one within a few hours by chewing through the plastic bottle. I've seen mice chew through all kinds of containers to get the food in my pantry. I typically set the traps before I go to bed. If the mice can chew through the plastic bottle fast enough, then they can escape before I wake up and check the trap.
 
